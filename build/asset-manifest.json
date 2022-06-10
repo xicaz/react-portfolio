@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.9a0ffad1.css",
-    "main.js": "/react-portfolio/static/js/main.44db4ead.js",
-    "static/js/787.c4e7f8f9.chunk.js": "/react-portfolio/static/js/787.c4e7f8f9.chunk.js",
-    "static/media/ABCGintoNordVariable-Trial.ttf": "/react-portfolio/static/media/ABCGintoNordVariable-Trial.607698b309832d1234a4.ttf",
-    "static/media/ABCGintoNormalVariable-Trial.ttf": "/react-portfolio/static/media/ABCGintoNormalVariable-Trial.d2a181ec2bd0a5cc4be6.ttf",
-    "static/media/ABCProphetVariable-Trial.ttf": "/react-portfolio/static/media/ABCProphetVariable-Trial.62432492aacada53923c.ttf",
-    "static/media/ABCSocialMono-Bold-Trial.otf": "/react-portfolio/static/media/ABCSocialMono-Bold-Trial.a9a95c91cbda1488784d.otf",
-    "static/media/ABCSocialMono-Medium-Trial.otf": "/react-portfolio/static/media/ABCSocialMono-Medium-Trial.b1aed34502e84240ccae.otf",
-    "static/media/ABCSocialMono-Book-Trial.otf": "/react-portfolio/static/media/ABCSocialMono-Book-Trial.c96ad088a71889407273.otf",
-    "static/media/ABCMonumentGroteskMono-Medium-Trial.otf": "/react-portfolio/static/media/ABCMonumentGroteskMono-Medium-Trial.e1b2c0fac1f3277770e2.otf",
-    "static/media/ABCSocialMono-RegularItalic-Trial.otf": "/react-portfolio/static/media/ABCSocialMono-RegularItalic-Trial.9328bb9620d0edee2140.otf",
-    "static/media/ABCMonumentGroteskMono-Bold-Trial.otf": "/react-portfolio/static/media/ABCMonumentGroteskMono-Bold-Trial.bbf7cba065a3060d9ab5.otf",
-    "static/media/ABCMonumentGroteskMono-Light-Trial.otf": "/react-portfolio/static/media/ABCMonumentGroteskMono-Light-Trial.769e52a9e34bb25b9e17.otf",
-    "static/media/ABCWhyteMono-Regular-Trial.otf": "/react-portfolio/static/media/ABCWhyteMono-Regular-Trial.deb998c672f1df56b3cc.otf",
-    "index.html": "/react-portfolio/index.html",
-    "main.9a0ffad1.css.map": "/react-portfolio/static/css/main.9a0ffad1.css.map",
-    "main.44db4ead.js.map": "/react-portfolio/static/js/main.44db4ead.js.map",
-    "787.c4e7f8f9.chunk.js.map": "/react-portfolio/static/js/787.c4e7f8f9.chunk.js.map"
+    "main.css": "/static/css/main.1362a0eb.css",
+    "main.js": "/static/js/main.fbf7f6bb.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/ABCGintoNordVariable-Trial.ttf": "/static/media/ABCGintoNordVariable-Trial.607698b309832d1234a4.ttf",
+    "static/media/ABCGintoNormalVariable-Trial.ttf": "/static/media/ABCGintoNormalVariable-Trial.d2a181ec2bd0a5cc4be6.ttf",
+    "static/media/ABCProphetVariable-Trial.ttf": "/static/media/ABCProphetVariable-Trial.62432492aacada53923c.ttf",
+    "static/media/ABCSocialMono-Bold-Trial.otf": "/static/media/ABCSocialMono-Bold-Trial.a9a95c91cbda1488784d.otf",
+    "static/media/ABCSocialMono-Medium-Trial.otf": "/static/media/ABCSocialMono-Medium-Trial.b1aed34502e84240ccae.otf",
+    "static/media/ABCSocialMono-Book-Trial.otf": "/static/media/ABCSocialMono-Book-Trial.c96ad088a71889407273.otf",
+    "static/media/ABCMonumentGroteskMono-Medium-Trial.otf": "/static/media/ABCMonumentGroteskMono-Medium-Trial.e1b2c0fac1f3277770e2.otf",
+    "static/media/ABCSocialMono-RegularItalic-Trial.otf": "/static/media/ABCSocialMono-RegularItalic-Trial.9328bb9620d0edee2140.otf",
+    "static/media/ABCMonumentGroteskMono-Bold-Trial.otf": "/static/media/ABCMonumentGroteskMono-Bold-Trial.bbf7cba065a3060d9ab5.otf",
+    "static/media/ABCMonumentGroteskMono-Light-Trial.otf": "/static/media/ABCMonumentGroteskMono-Light-Trial.769e52a9e34bb25b9e17.otf",
+    "static/media/ABCWhyteMono-Regular-Trial.otf": "/static/media/ABCWhyteMono-Regular-Trial.deb998c672f1df56b3cc.otf",
+    "index.html": "/index.html",
+    "main.1362a0eb.css.map": "/static/css/main.1362a0eb.css.map",
+    "main.fbf7f6bb.js.map": "/static/js/main.fbf7f6bb.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a0ffad1.css",
-    "static/js/main.44db4ead.js"
+    "static/css/main.1362a0eb.css",
+    "static/js/main.fbf7f6bb.js"
   ]
 }

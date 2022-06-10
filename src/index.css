@@ -3,6 +3,11 @@
 @tailwind utilities;
 
 @font-face {
+  font-family: "ABC Whyte Inktrap";
+  src: url("./Fonts/ABCWhyteInktrapSemi-Mono-Regular-Trial.otf");
+}
+
+@font-face {
   font-family: "ABC Prophet";
   src: url("./Fonts/ABCProphetVariable-Trial.ttf");
   font-weight: thin normal medium bold;
@@ -69,13 +74,18 @@
   font-weight: thin;
 }
 
+* {
+  margin: 0;
+  padding: 0;
+}
+
 body {
   overscroll-behavior: none;
   overscroll-behavior-y: none;
   overflow-x: hidden;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
+  font-family: "ABC Social", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+    "Helvetica Neue", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
