@@ -9,13 +9,10 @@ function App() {
   return (
     <div className="App">
       <Routes>
-        <Route path="/react-portfolio/" exact element={<Home />} />
-        <Route path="react-portfolio/about" element={<About />} />
-        <Route path="react-portfolio/portfolio" element={<Portfolio />} />
-        <Route
-          path="react-portfolio/portfolio/:project"
-          element={<ProjectContainer />}
-        />
+        <Route path="/" exact element={<Home />} />
+        <Route path="/about" element={<About />} />
+        <Route path="/portfolio" element={<Portfolio />} />
+        <Route path="/portfolio/:project" element={<ProjectContainer />} />
       </Routes>
     </div>
   );
