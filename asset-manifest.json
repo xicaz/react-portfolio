@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.9a0ffad1.css",
-    "main.js": "/react-portfolio/static/js/main.d41cdba4.js",
+    "main.js": "/react-portfolio/static/js/main.44db4ead.js",
     "static/js/787.c4e7f8f9.chunk.js": "/react-portfolio/static/js/787.c4e7f8f9.chunk.js",
     "static/media/ABCGintoNordVariable-Trial.ttf": "/react-portfolio/static/media/ABCGintoNordVariable-Trial.607698b309832d1234a4.ttf",
     "static/media/ABCGintoNormalVariable-Trial.ttf": "/react-portfolio/static/media/ABCGintoNormalVariable-Trial.d2a181ec2bd0a5cc4be6.ttf",
@@ -16,11 +16,11 @@
     "static/media/ABCWhyteMono-Regular-Trial.otf": "/react-portfolio/static/media/ABCWhyteMono-Regular-Trial.deb998c672f1df56b3cc.otf",
     "index.html": "/react-portfolio/index.html",
     "main.9a0ffad1.css.map": "/react-portfolio/static/css/main.9a0ffad1.css.map",
-    "main.d41cdba4.js.map": "/react-portfolio/static/js/main.d41cdba4.js.map",
+    "main.44db4ead.js.map": "/react-portfolio/static/js/main.44db4ead.js.map",
     "787.c4e7f8f9.chunk.js.map": "/react-portfolio/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9a0ffad1.css",
-    "static/js/main.d41cdba4.js"
+    "static/js/main.44db4ead.js"
   ]
 }
